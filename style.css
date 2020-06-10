@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #f5ebeb;
+    background-color: #2c2929;
+}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.main {
+    padding: 20%;
+    text-align: center;
+    font-size: 22px;
+    border: 2px solid #f5ebeb;
+}
